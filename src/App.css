@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.HeaderContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: 1px solid black;
+  height: 7vh;
+}
+
+.HeaderMenuContainer {
+  display: flex;
+  width: 400px;
+  flex-direction: row;
+  justify-content: space-around;
+}
